@@ -1,5 +1,5 @@
-import { VideoHomepage } from "@/components/video-homepage"
+import { IntroPage } from "@/components/intro-page"
 
 export default function Page() {
-  return <VideoHomepage />
+  return <IntroPage />
 }
